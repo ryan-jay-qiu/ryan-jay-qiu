@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan-jay-qiu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+--- 
 
 -  🔭 I’m currently working on ...
 -  😎 A frontend novice who aspires to become a technological powerhouse.
@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,wordpress,nodejs,vue,react,mysql,docker,md,git,vite,webpack,threejs,figma,bash,jquery,nginx,vscode&theme=light)
+
+--- 
+
+💻💖☕ by [ryanJayQiu](https://github.com/ryan-jay-qiu). 🙏
