@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -  🎯 Wasting my time to save other people's time.
 -  💡 [Learn more about me](https://github.com/ryan-jay-qiu).
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&height=65&lines=Chinese%2BSoftware%2BEngineer;Thank+you+for+looking+so+good+and+coming+to+see+me;Nice%2Bto%2Bmeet%2Byou...)](https://git.io/typing-svg)
 
 ## 🎧 Spotify Playing
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,wordpress,nodejs,vue,react,mysql,docker,md,git,vite,webpack,threejs,figma,bash,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,bootstrap,babel,electron,fastapi,css,sass,js,ts,wordpress,rollupjs,nodejs,svg,linux,vue,react,mysql,docker,md,git,gitlab,github,vite,webpack,threejs,figma,bash,jquery,nginx,vscode&theme=light)
 
 --- 
 
