@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan-jay-qiu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- :orange_book: 技术博客：https://neowho.blog.csdn.net
 
-- :hammer:  个人网站：http://www.neowho.cc
-
-- :meat_on_bone: 极客官网：http://www.jkvipedu.com
 
 ## 🎧 Spotify Playing
 
@@ -30,4 +26,4 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,wordpress,nodejs,vue,react,mysql,docker,md,git,vite,webpack,threejs,figma,bash,jquery,nginx,vscode&theme=light)
