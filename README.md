@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Qiu RyanJay (💻💖☕)
 
 <!--
 **ryan-jay-qiu/ryan-jay-qiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan-jay-qiu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
---- 
 
 -  🔭 I’m currently working on ...
 -  😎 A frontend novice who aspires to become a technological powerhouse.
 -  ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://github.com/ryan-jay-qiu) or [send me some love](https://github.com/ryan-jay-qiu).
 -  🎯 Wasting my time to save other people's time.
 -  💡 [Learn more about me](https://github.com/ryan-jay-qiu).
+
+
 
 ## 🎧 Spotify Playing
 
